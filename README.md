@@ -1,4 +1,4 @@
-![image](https://github.com/shashwata2003/Frontend-todoapp-using-kanban/assets/93364178/6b67255d-cbdd-4c3f-8c73-9b9c79b3d975)
+
 # Frontend-todoapp-using-kanban
 Vetting Project for the role of Frontend engineer intern at mercor.
 In this project, I have cloned a Figma design in React. The deployed code is replicated the original Figma design, including fonts, icons, colors, structure, layout, and spacing. 
